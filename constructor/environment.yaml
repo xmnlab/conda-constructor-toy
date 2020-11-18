@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+dependencies:
+  - conda
+  - pip
+  - python >=3.8.*
